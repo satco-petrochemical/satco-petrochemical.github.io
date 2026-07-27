@@ -1,7 +1,5 @@
 title: "SATCO Petrochemical"
 description: "Your Trusted Global Petrochemical Supply Chain Partner"
-theme: jekyll-theme-cayman
 
-# تنظیمات پایه برای جلوگیری از گم شدن مسیرها در گیت‌هاب پیجز
 url: "https://satco-petrochemical.github.io"
 baseurl: ""
