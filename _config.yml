@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
 title: "SATCO Petrochemical"
 description: "Your Trusted Global Petrochemical Supply Chain Partner"
-header_background_url: assets/Banner.png
+theme: jekyll-theme-cayman
+
+# تنظیمات پایه برای جلوگیری از گم شدن مسیرها در گیت‌هاب پیجز
+url: "https://satco-petrochemical.github.io"
+baseurl: ""
