@@ -3,6 +3,10 @@ layout: default
 title: SATCO Petrochemical | Global Petrochemical Supply Chain
 ---
 
+<!-- این بخش کدِ نمایشِ بنر است -->
+<img src="Banner.png" alt="SATCO Petrochemical Banner" style="width: 100%; height: auto; display: block; margin-bottom: 20px;">
+
+<!-- از اینجا به بعد متنِ صفحه اصلی شروع می‌شود -->
 # SATCO Petrochemical
 
 ## Your Trusted Global Petrochemical Partner
