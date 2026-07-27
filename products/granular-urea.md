@@ -100,7 +100,7 @@ title: Granular Urea | SATCO Petrochemical
       </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #415a77;">Bulk Density (g/cm³)</td>
-        <td style="padding: 10px; border: 1px solid #415a77;">0.75</td>
+        <td style="padding: 10px; border: 1px file border: 1px solid #415a77;">0.75</td>
         <td style="padding: 10px; border: 1px solid #415a77;">± 0.02</td>
         <td style="padding: 10px; border: 1px solid #415a77;">N/A</td>
       </tr>
