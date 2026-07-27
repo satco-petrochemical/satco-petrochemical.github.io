@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: "SATCO Petrochemical"
 description: "Your Trusted Global Petrochemical Supply Chain Partner"
 header_background_url: assets/Banner.png
+permalink: pretty
