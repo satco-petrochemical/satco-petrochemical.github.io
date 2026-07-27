@@ -7,4 +7,4 @@ title: Products | SATCO Petrochemical
 
 Here you can find our range of petrochemical products.
 
-* <a href="https://satco-petrochemical.github.io/granular-urea.html">Granular Urea</a>
+* <a href="/satco-petrochemical/products/granular-urea/">Granular Urea</a>
