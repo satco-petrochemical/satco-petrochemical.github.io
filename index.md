@@ -3,10 +3,6 @@ layout: default
 title: SATCO Petrochemical | Global Petrochemical Supply Chain
 ---
 
-<!-- این بخش کدِ نمایشِ بنر است -->
-<img src="Banner.png" alt="SATCO Petrochemical Banner" style="width: 100%; height: auto; display: block; margin-bottom: 20px;">
-
-<!-- از اینجا به بعد متنِ صفحه اصلی شروع می‌شود -->
 # SATCO Petrochemical
 
 ## Your Trusted Global Petrochemical Partner
@@ -21,16 +17,35 @@ Expertise in International Logistics, Petrochemical Sourcing, and Strategic Cons
 * **Polyethylene (PE):** High-quality resins for industrial and consumer packaging.
 * **Polypropylene (PP):** Versatile polymers for automotive and textile applications.
 * **Base Oils:** High-grade lubricants for industrial machinery.
+* **Paraffin:** Specialized wax products for various industrial uses.
 * **Solvents & Chemicals:** Specialized chemical compounds for diverse manufacturing.
 
 ---
 
-### 🚢 Operations & Supply Chain
+### 🚢 Recent Shipments & Operations
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 20px;">
 
   <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); background: #fff;">
-    <span style="background: #005f73; color: #fff; padding: 3px 8px; font-size: 11px; font-weight: bold; border-radius: 3px;">LOGISTICS</span>
-    <h4 style="margin: 10px 0 5px 0; color: #005f73;">Global Petrochemical Transit</h4>
+    <span style="background: #005f73; color: #fff; padding: 3px 8px; font-size: 11px; font-weight: bold; border-radius: 3px;">OVERLAND</span>
+    <h4 style="margin: 10px 0 5px 0; color: #005f73;">Cross-Border Petrochemical Fleet</h4>
   </div>
 
+  <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); background: #fff;">
+    <span style="background: #005f73; color: #fff; padding: 3px 8px; font-size: 11px; font-weight: bold; border-radius: 3px;">MARITIME</span>
+    <h4 style="margin: 10px 0 5px 0; color: #005f73;">Bulk Vessel Chemical Loading</h4>
+  </div>
+
+  <div style="border: 1px solid #005f73; color: #fff; padding: 3px 8px; font-size: 11px; font-weight: bold; border-radius: 3px; background: #005f73;">
+    <span style="background: #ffffff; color: #005f73; padding: 3px 8px; font-size: 11px; font-weight: bold; border-radius: 3px;">LOGISTICS</span>
+    <h4 style="margin: 10px 0 5px 0; color: #ffffff;">Supply Chain Optimization</h4>
+  </div>
+
+</div>
+
+<div style="text-align: center; margin-top: 25px;">
+  <a href="/shipments.html" style="color: #005f73; font-weight: bold; text-decoration: none; font-size: 14px;">View All Shipments &rarr;</a>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="/petrochemicals.html" style="color: #005f73; font-weight: bold; text-decoration: none; font-size: 14px;">Go to Petrochemicals &rarr;</a>
 </div>
